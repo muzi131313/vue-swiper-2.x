@@ -1,5 +1,5 @@
 {
-  "name": "vue-swiper-2",
+  "name": "vue-swiper-2.x",
   "version": "1.0.0",
   "description": "vue components for swiper2.x, support nuxtjs",
   "main": "index.js",
@@ -7,12 +7,11 @@
     "build:spa": "cross-env NODE_ENV=production webpack --config config/build.conf.js --display-error-details",
     "build:ssr": "babel src/ssr.js --out-file dist/ssr.js",
     "build": "npm run build:spa && npm run build:ssr",
-    "publish": "git push && git push --tags && npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muzi131313/vue-swiper-2"
+    "url": "git+https://github.com/muzi131313/vue-swiper-2.x"
   },
   "keywords": [
     "vue",
@@ -24,9 +23,9 @@
   "author": "muzi131313",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muzi131313/vue-swiper-2/issues"
+    "url": "https://github.com/muzi131313/vue-swiper-2.x/issues"
   },
-  "homepage": "https://github.com/muzi131313/vue-swiper-2#readme",
+  "homepage": "https://github.com/muzi131313/vue-swiper-2.x#readme",
   "dependencies": {
     "swiper": "^2.7.6"
   },
