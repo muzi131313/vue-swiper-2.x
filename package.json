@@ -1,5 +1,5 @@
 {
-  "name": "vue-swiper2",
+  "name": "vue-swiper-2",
   "version": "1.0.0",
   "description": "vue components for swiper2.x, support nuxtjs",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muzi131313/vue-swiper2.git"
+    "url": "git+https://github.com/muzi131313/vue-swiper-2"
   },
   "keywords": [
     "vue",
@@ -24,9 +24,9 @@
   "author": "muzi131313",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/muzi131313/vue-swiper2/issues"
+    "url": "https://github.com/muzi131313/vue-swiper-2/issues"
   },
-  "homepage": "https://github.com/muzi131313/vue-swiper2#readme",
+  "homepage": "https://github.com/muzi131313/vue-swiper-2#readme",
   "dependencies": {
     "swiper": "^2.7.6"
   },
