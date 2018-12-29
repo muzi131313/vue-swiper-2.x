@@ -1,6 +1,6 @@
 {
   "name": "vue-swiper-2.x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue components for swiper2.x, support nuxtjs",
   "main": "index.js",
   "scripts": {
