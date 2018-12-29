@@ -92,11 +92,6 @@ export default {
       }
     }
   },
-  ready() {
-    if (!this.swiper) {
-      this.mountInstance()
-    }
-  },
   mounted() {
     if (!this.swiper) {
       let setClassName = false
