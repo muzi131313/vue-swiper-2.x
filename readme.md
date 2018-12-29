@@ -4,3 +4,6 @@
     - nuxtjs
     - ie9
 - if you want to use [swiper3.x](https://3.swiper.com.cn/) or [swiper4.x](http://4.swiper.com.cn/), please go [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+
+### usage
+- [nuxt demo](https://gitee.com/muzi131313/nuxt-swiper)

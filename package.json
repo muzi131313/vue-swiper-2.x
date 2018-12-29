@@ -2,7 +2,7 @@
   "name": "vue-swiper-2.x",
   "version": "1.0.1",
   "description": "vue components for swiper2.x, support nuxtjs",
-  "main": "index.js",
+  "main": "dist/vue-swiper2.js",
   "scripts": {
     "build:spa": "cross-env NODE_ENV=production webpack --config config/build.conf.js --display-error-details",
     "build:ssr": "babel src/ssr.js --out-file dist/ssr.js",
