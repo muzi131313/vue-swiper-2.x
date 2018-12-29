@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/muzi131313/vue-swiper-2.x#readme",
   "dependencies": {
+    "object-assign": "^4.1.1",
     "swiper": "^2.7.6"
   },
   "devDependencies": {

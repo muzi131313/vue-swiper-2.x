@@ -115,7 +115,7 @@ const install = function(Vue, globalOptions = {}) {
   Vue.directive('swiper', swiperDirective(globalOptions))
 }
 
-const VueAwesomeSwiper = { Swiper, swiper, install }
+const VueSwiper = { Swiper, swiper, install }
 
 export { Swiper, swiper, install }
-export default VueAwesomeSwiper
+export default VueSwiper
