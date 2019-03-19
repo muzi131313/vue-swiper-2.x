@@ -128,7 +128,6 @@ export default {
       }
     },
     mountInstance() {
-      console.log('this.$el: ', this.$el)
       const swiperOptions = Object.assign({}, this.globalOptions, this.options)
       this.swiper = new Swiper(this.$el, swiperOptions)
       this.bindEvents()
