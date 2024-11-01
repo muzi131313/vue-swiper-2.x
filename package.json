@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "swiper": "^2.7.6"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
