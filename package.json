@@ -38,7 +38,7 @@
     "swiper": "^6.5.1"
   },
   "devDependencies": {
-    "autoprefixer": "^6.7.2",
+    "autoprefixer": "^10.4.20",
     "babel-cli": "^6.23.0",
     "babel-core": "^6.24.1",
     "babel-eslint": "^7.1.1",
@@ -66,7 +66,7 @@
     "vue": "^2.5.0",
     "vue-hot-reload-api": "^1.2.0",
     "vue-html-loader": "^1.0.0",
-    "vue-loader": "^13.3.0",
+    "vue-loader": "^17.4.2",
     "vue-template-compiler": "^2.5.2",
     "vue-template-es2015-compiler": "^1.6.0",
     "webpack": "^5.75.0",
